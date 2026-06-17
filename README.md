@@ -60,5 +60,6 @@ A backend system that automates customer support using a knowledge document and 
 
 I'm open to freelance opportunities in AI automation and backend development.
 
+- Portfolio: https://portfolio-zeta-six-yhauvmg8aq.vercel.app
 - GitHub: https://github.com/SamanvaySaxena
 - Email: samsaxena.business@gmail.com
