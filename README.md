@@ -1,3 +1,12 @@
+<img width="1983" height="793" alt="github pfp banner" src="https://github.com/user-attachments/assets/fd907efc-167c-441b-8e20-4cd64ec34011" />
+
+
+
+
+
+
+
+
 # Hi, I'm Samanvay 👋
 
 #### I build AI-powered automation systems that help businesses streamline workflows, handle leads, and automate repetitive operations.
