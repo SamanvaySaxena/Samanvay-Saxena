@@ -1,8 +1,8 @@
 # Hi, I'm Samanvay 👋
 
-I build AI-powered automation systems that help businesses streamline workflows, handle leads, and automate repetitive operations.
+#### I build AI-powered automation systems that help businesses streamline workflows, handle leads, and automate repetitive operations.
 
-I specialize in backend development using Python, Flask, APIs, and no-code automation tools like Make.com.
+#### I specialize in backend development using Python, Flask, APIs, and no-code automation tools like Make.com.
 
 ---
 
