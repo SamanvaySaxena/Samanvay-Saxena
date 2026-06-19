@@ -43,13 +43,13 @@ I build systems that replace manual work with automation:
 
 ## 📌 Featured Projects
 
-### AI Appointment Booking Assistant
+### AI-Powered Appointment Booking Assistant
 AI-powered appointment booking system that automates scheduling workflows using Flask, Gemini API, and automation tools.
 
-### AI Lead Qualification System
+### AI-Powered Lead Qualification System
 Automated system that analyzes incoming leads and assigns priority scores for automated business routing.
 
-### AI Support Ticket Classifier
+### AI-Powered Support Ticket Classifier
 AI-based ticket classification system that categorizes support requests based on urgency and type.
 
 ### AI-Powered Support Automation System
@@ -59,7 +59,7 @@ A backend system that automates customer support using a knowledge document and 
 
 ## 📫 Let's Work Together
 
-I'm open to freelance opportunities in AI automation and backend development.
+#### I'm open to freelance opportunities in AI automation and backend development.
 
 - Portfolio: https://portfolio-zeta-six-yhauvmg8aq.vercel.app
 - GitHub: https://github.com/SamanvaySaxena
